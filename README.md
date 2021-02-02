@@ -60,7 +60,7 @@ This project was developed to improve my ReactJS and design skills!
 ### 📲 How to run this project
 > <strong>Step 1:</strong> clone this repository by typing `git clone git@github.com:Pedro-Murilo/golaxy.git`
 
-> <strong>Step 2:</strong> type `cd supernatural-quiz` and type `yarn`, now wait install all dependencies
+> <strong>Step 2:</strong> type `cd golaxy` and type `yarn`, now wait install all dependencies
 
 > <strong>Step 3:</strong> type `yarn dev` and open in your browser `http://localhost:3000/`
 
