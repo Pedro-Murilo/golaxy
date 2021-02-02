@@ -1,5 +1,5 @@
 <h1 align="center">🪐 golaxy</h1>
-<h2 align="center">An app to show the universe!</h2> 
+<p align="center">An app to show the universe!</p> 
 
 
 ---
