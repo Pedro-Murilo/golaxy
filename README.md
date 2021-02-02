@@ -1,5 +1,5 @@
 <h1 align="center">🪐 golaxy</h1>
-<p align="center">An app to show the universe!</p> 
+<h2 align="center">An app to show the universe!</h2> 
 
 
 ---
@@ -41,7 +41,7 @@
 </p>
 
 ---
-## 📋 About
+### 📋 About
 This project was developed to improve my ReactJS and design skills!
 
 ---
