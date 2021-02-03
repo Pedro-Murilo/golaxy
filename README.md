@@ -2,7 +2,6 @@
 <p align="center">An app to show the universe!</p> 
 
 
----
 <p align="center">
 
 <a href="https://reactjs.org/">
@@ -20,7 +19,7 @@
   </a>
 </p>
 
----
+
 <div align="center">
   <h2>Follow the stars</h2> 
   <a href="#-final-project">Final Project</a> |
