@@ -32,7 +32,7 @@
 
 ---
 ## ✨ Final Project
-
+> Netlify: https://golaxy.netlify.app/
 <p align="center">
   
 <img alt="Final Project Gif" src="https://github.com/Pedro-Murilo/golaxy/blob/main/.github/golaxy.gif" />
